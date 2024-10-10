@@ -21,11 +21,7 @@
    
    
     font-size: 20px;
-    display: none;
-   
-   
-    
-
+    display: none;   
 
 }
 .title{
@@ -80,6 +76,10 @@
     justify-content: center;
     align-items: center;
     padding: 40px;
+}
+
+#menu-btn{
+    display: none;
 }
 .container2{
     text-align: center;
